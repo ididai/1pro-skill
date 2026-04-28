@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.2 - 2026-04-28
+
+- Narrowed the frontmatter description so task-spec mode is clearly conditional.
+- Made basic mode lighter: purpose, rewritten request, and only necessary follow-up questions.
+- Moved depth selection before full requirement extraction.
+- Defined Critical mode triggers and verification guidance more concretely.
+- Clarified that the task-spec example applies to executable code changes with meaningful failure states.
+
 ## 1.1.1 - 2026-04-28
 
 - Added depth control so simple requests stay simple.
