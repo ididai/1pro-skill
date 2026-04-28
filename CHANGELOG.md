@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.1 - 2026-04-28
+
+- Added depth control so simple requests stay simple.
+- Added anti-overengineering rules.
+- Narrowed when task-spec mode should activate.
+- Clarified that only high-impact ambiguity should be resolved.
+
 ## 1.1.0 - 2026-04-28
 
 - Added a lightweight task-spec mode for executable development or agent work.
