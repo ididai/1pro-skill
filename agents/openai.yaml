@@ -1,4 +1,4 @@
 interface:
   display_name: "1pro-skill"
-  short_description: "모호한 요구를 날카롭게 정제하고 필요하면 초보자용 설명도 제공하는 상위 1% 질문법"
-  default_prompt: "Use $1pro-skill to 모호한 요청을 실행 가능한 최고 수준 질문으로 정제해줘. 사용자가 초보자처럼 보이거나 쉬운 설명을 원하면 왜 이 질문이 필요한지와 추천 기본값도 짧게 붙여줘."
+  short_description: "모호한 요구를 날카로운 질문이나 실행 가능한 작업 명세로 정제하는 상위 1% 질문법"
+  default_prompt: "Use $1pro-skill to 모호한 요청을 실행 가능한 최고 수준 질문이나 작업 명세로 정제해줘. 사용자가 초보자처럼 보이거나 쉬운 설명을 원하면 왜 이 질문이 필요한지와 추천 기본값도 짧게 붙여줘."
