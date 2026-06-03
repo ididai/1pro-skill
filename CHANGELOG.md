@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.3 - 2026-06-03
+
+- Added `당장 쓸 첫질문` for users who need a copy-ready first prompt.
+- Prioritized first-question output for beginner or non-developer starting points.
+- Kept examples domain-neutral and easy to understand.
+
 ## 1.1.2 - 2026-04-28
 
 - Narrowed the frontmatter description so task-spec mode is clearly conditional.
