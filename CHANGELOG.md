@@ -1,9 +1,15 @@
 # Changelog
 
+## 1.1.5 - 2026-06-03
+
+- Removed ambiguous first-question triggers that could collide with normal in-progress questions.
+- Kept only explicit first-question aliases: `첫질문`, `첫 질문`, `첫번째 질문`, `첫 번째 질문`, `시작 질문`, and `당장 쓸 첫질문`.
+- Documented that `뭐라고 물어봐야 해`, `어떻게 시작해`, `처음 시작`, and `처음시작` should not act as first-question-only triggers.
+
 ## 1.1.4 - 2026-06-03
 
 - Added `첫질문` as the short trigger and output label for copy-ready first prompts.
-- Added related trigger aliases such as `첫 질문`, `첫번째 질문`, `첫 번째 질문`, `처음시작`, `처음 시작`, and `시작 질문`.
+- Added related trigger aliases such as `첫 질문`, `첫번째 질문`, `첫 번째 질문`, and `시작 질문`.
 - Kept `당장 쓸 첫질문` as a backwards-compatible alias.
 - Updated metadata and docs to show the shorter wording first.
 
