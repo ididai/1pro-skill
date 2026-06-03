@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.6 - 2026-06-03
+
+- Render first-question bodies in fenced `text` code blocks so chat UIs can show a copy button.
+- Add numbered `제안사항` after first-question output to improve completeness before finalizing.
+- End default first-question responses with `제안 사항을 포함한 최종 출력본을 드릴까요?`.
+- Preserve `첫질문만` as a minimal copy-only path without suggestions.
+
 ## 1.1.5 - 2026-06-03
 
 - Removed ambiguous first-question triggers that could collide with normal in-progress questions.
