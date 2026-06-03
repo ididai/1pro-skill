@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.4 - 2026-06-03
+
+- Added `첫질문` as the short trigger and output label for copy-ready first prompts.
+- Added related trigger aliases such as `첫 질문`, `첫번째 질문`, `첫 번째 질문`, `처음시작`, `처음 시작`, and `시작 질문`.
+- Kept `당장 쓸 첫질문` as a backwards-compatible alias.
+- Updated metadata and docs to show the shorter wording first.
+
 ## 1.1.3 - 2026-06-03
 
 - Added `당장 쓸 첫질문` for users who need a copy-ready first prompt.
